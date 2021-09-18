@@ -1,3 +1,5 @@
+[![Go](https://github.com/misikch/simple-go-gallery/actions/workflows/go.yml/badge.svg)](https://github.com/misikch/simple-go-gallery/actions/workflows/go.yml)
+
 # simple-go-gallery
 photo gallery on golang. From Spagetty code to structured
 
