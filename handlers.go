@@ -11,7 +11,7 @@ var (
 )
 
 type PhotoListHandler struct {
-	St *StMem
+	St *StDb
 	Tmpl *template.Template
 }
 
